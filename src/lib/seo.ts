@@ -30,8 +30,7 @@ export function useSeoProps(
 					url: `https://${domain}/banner.png`,
 					alt: description,
 					width: 1280,
-					height: 3,
-					// CHANGED THIS SEO.TS
+					height: 720,
 				},
 			],
 		},
