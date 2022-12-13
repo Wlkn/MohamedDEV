@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Time Calculator",
+		"homepage": "https://wlkn.github.io/Time-Calculator-App/",
+		"html_url": "https://github.com/Wlkn/Time-Calculator-App",
+		"description": "🕓 A Calculator that can substract, add, multiply, and divide with and without time",
+		"topics": "portfolio",
+		"fork": false,
+		"has_projects": false
+	},
+	{
+		"name": "Quiz made with JavaScript",
+		"homepage": "https://wlkn.github.io/Quiz_Javascript/",
+		"html_url": "https://github.com/Wlkn/Quiz_Javascript",
+		"description": "✅ A Quiz that is made with JavaScript and fetches the question with an external API",
+		"topics": "portfolio",
+		"fork": false,
+		"has_projects": false
+	},
+	{
+		"name": "Tally-Ho Counter",
+		"homepage": "https://wlkn.github.io/Javascript-CounterApp/",
+		"html_url": "https://github.com/Wlkn/Javascript-CounterApp",
+		"description": "♾️ A JavaScript Counter that counts up by jumps from 0 to 100",
+		"topics": "portfolio",
+		"fork": false,
+		"has_projects": false
+	},
+	{
+		"name": "More to come!",
+		"homepage": "",
+		"html_url": "https://github.com/Wlkn/",
+		"description": "💖 As time advances, I will add more...",
+		"topics": "portfolio",
+		"fork": false,
+		"has_projects": false,
+		"has_pages": false
+	}
+]
