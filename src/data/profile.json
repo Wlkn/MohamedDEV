@@ -11,10 +11,10 @@
 	"projectSrcs": [
 		{
 			"type": "users",
-			"slug": "nurodev",
+			"slug": "wlkndev",
 			"ignore": []
 		}
 	],
 	"pagesIgnore": [],
-	"domain": "nuro.dev"
+	"domain": "wlkn.vercel.app"
 }

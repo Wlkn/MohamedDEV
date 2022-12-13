@@ -58,7 +58,7 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 						title: post.frontmatter.title,
 						images: [
 							{
-								url: post.frontmatter.banner ?? '/banner.png',
+								url: post.frontmatter.banner ?? '../../../public/banner.png',
 								alt: post.frontmatter.description,
 								width: 1280,
 								height: 720,
