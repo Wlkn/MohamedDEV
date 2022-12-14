@@ -8,8 +8,14 @@
 	{
 		"date": "09-10-2021",
 		"title": "Started College",
-		"description": "Began studying Computer science at Montmorency College",
+		"description": "Left as the pace was slow, and found another way to achieve my goals.",
 		"icon": "feather:book"
+	},
+	{
+		"date": "05-29-2021",
+		"title": "Highschool degree",
+		"description": "Finished highschool at Curé Antoine Labelle",
+		"icon": "feather:book-open"
 	},
 	{
 		"date": "03-05-2019",
